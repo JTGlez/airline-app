@@ -22,7 +22,7 @@ This project aims to implement the "SQL Airlines" project with a production-read
 ### Tech Lead 👨‍🏭
 + SOON!
 
-### Front-End Team 🪟
+### Front-End Team 🧑‍🎨
 + SOON!
 
 ### Back-End Team 🧑‍🔧 
