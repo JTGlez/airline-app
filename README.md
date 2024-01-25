@@ -14,8 +14,8 @@ This project aims to implement the "SQL Airlines" project with a production-read
 
 + Next.js 14 with Server Actions
 + Shadcn/ui
-+ Supabase? Next Auth
-+ PostgreSQL? / OracleDB
++ Supabase || Next Auth
++ PostgreSQL || OracleDB
 
 ## Collaborators 🧑‍🤝‍🧑
 
