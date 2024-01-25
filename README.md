@@ -19,11 +19,11 @@ This project aims to implement the "SQL Airlines" project with a production-read
 
 ## Collaborators 🧑‍🤝‍🧑
 
-### Tech Lead 👨‍🏭
+### Tech Leads 👨‍🏭
 + [Jorge González](https://github.com/JTGlez)
-
++ [Leonardo Cruz](https://github.com/chow-chow)
+  
 ### Front-End Team 🧑‍🎨
-+ SOON!
 
 ### Back-End Team 🧑‍🔧 
-+ [Leonardo Cruz](https://github.com/chow-chow)
+
