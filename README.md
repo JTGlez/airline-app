@@ -26,4 +26,4 @@ This project aims to implement the "SQL Airlines" project with a production-read
 + SOON!
 
 ### Back-End Team 🧑‍🔧 
-+ SOON!
++ [Leonardo Cruz](https://github.com/chow-chow)
