@@ -1,6 +1,6 @@
 # SQL Airlines ✈️
 
-This project aims to implement the "SQL Airlines" project that I made during my course of Databases at FI UNAM. 
+This project aims to implement the "SQL Airlines" project with a production-ready environment.
 
 ## Features 📝
 
