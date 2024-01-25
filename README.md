@@ -20,7 +20,7 @@ This project aims to implement the "SQL Airlines" project with a production-read
 ## Collaborators 🧑‍🤝‍🧑
 
 ### Tech Lead 👨‍🏭
-+ SOON!
++ [Jorge González](https://github.com/JTGlez)
 
 ### Front-End Team 🧑‍🎨
 + SOON!
