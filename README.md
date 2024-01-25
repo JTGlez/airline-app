@@ -1,6 +1,6 @@
 # SQL Airlines ✈️
 
-This project aims to implement the "SQL Airlines" project that I made during my course of Databases at FI UNAM. 
+This project aims to implement the "SQL Airlines" project with a production-ready environment.
 
 ## Features 📝
 
@@ -14,9 +14,16 @@ This project aims to implement the "SQL Airlines" project that I made during my 
 
 + Next.js 14 with Server Actions
 + Shadcn/ui
-+ Supabase
-+ PostgreSQL
++ Supabase || Next Auth
++ PostgreSQL || OracleDB
 
-## Roadmap ⏲️
+## Collaborators 🧑‍🤝‍🧑
 
-Soon!
+### Tech Leads 👨‍🏭
++ [Jorge González](https://github.com/JTGlez)
++ [Leonardo Cruz](https://github.com/chow-chow)
+  
+### Front-End Team 🧑‍🎨
+
+### Back-End Team 🧑‍🔧 
+
