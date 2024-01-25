@@ -2,7 +2,7 @@
 
 This project aims to implement the "SQL Airlines" project that I made during my course of Databases at FI UNAM. 
 
-## Features
+## Features 📝
 
 + Fully responsive design and SEO-optimized.
 + Internationalization and Dark Mode.
@@ -10,13 +10,13 @@ This project aims to implement the "SQL Airlines" project that I made during my 
 + Fully revamped study case with detailed documentation.
 + Deployment in Vercel Hosting.
 
-## Tech Stack
+## Tech Stack 🛠️
 
 + Next.js 14 with Server Actions
 + Shadcn/ui
 + Supabase
 + PostgreSQL
 
-## Roadmap
+## Roadmap ⏲️
 
 Soon!
